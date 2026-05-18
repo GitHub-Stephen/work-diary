@@ -17,7 +17,7 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: '2024', link: '/2024' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '3monthwithai', link: '/3monthwithai' }
         ]
       }
     ],
