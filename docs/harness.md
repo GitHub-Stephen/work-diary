@@ -21,7 +21,7 @@ outline: deep
 然后，我再次陷入沉思。直到我眼睛注视到了我电脑屏幕有一个
 
 <div style="text-align:center;">
-  <img src="images/image.png" alt="alt text" width="50" height="50" />
+  <img src="./images/image.png" alt="alt text" width="50" height="50" />
 </div>
 
 好了，故事开始了。
