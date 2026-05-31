@@ -17,7 +17,7 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: '2024', link: '/2024' },
-          { text: '3monthwithai', link: '/harness' }
+          { text: 'harness', link: '/harness' }
         ]
       }
     ],
