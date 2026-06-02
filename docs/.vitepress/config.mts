@@ -14,7 +14,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Hermes-Agent',
         items: [
           { text: '2025', link: '/2025' },
           { text: 'Hermes-Agent', link: '/Hermes-Agent' }
