@@ -16,7 +16,7 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
-          { text: '2024', link: '/2024' },
+          { text: '2025', link: '/2025' },
           { text: 'Hermes-Agent', link: '/Hermes-Agent' }
         ]
       }
