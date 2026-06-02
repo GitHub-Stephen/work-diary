@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/harness' }
+      { text: 'Hermes-Agent', link: '/Hermes-Agent' }
     ],
 
     sidebar: [
@@ -17,7 +17,7 @@ export default defineConfig({
         text: 'Examples',
         items: [
           { text: '2024', link: '/2024' },
-          { text: 'harness', link: '/harness' }
+          { text: 'Hermes-Agent', link: '/Hermes-Agent' }
         ]
       }
     ],
